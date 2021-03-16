@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RealState.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:RealState.WebApi.Common.ExtensionMethods.getUserId(System.Security.Claims.ClaimsPrincipal)">
+            <summary>
+                User ID
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
