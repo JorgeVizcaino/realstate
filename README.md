@@ -15,14 +15,16 @@ This project gets a list of the houses that can be rented
 * Update the `AppConexion`
 
 
-### Installing
+### Setup & Run
+* 1- Open visual studio 2019
+* 2- Open the solution RealStateSolutionAPI/RealStateSolution.sln
 * 1- Execute the .Net core app to create the database and migrate the data
 * 2- Open visual studio code in the folder realstate.
 * 3- Open the terminal and execute `npm install`
 * 4- execute then `npm start`
 
-## Functionalities
+## Features
 * Swagger
 * Authentications JWT
-* EntityFramework Code Firts 
+* EntityFramework Code First 
 * Angular
